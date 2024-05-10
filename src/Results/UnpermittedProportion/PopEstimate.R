@@ -16,7 +16,7 @@ construction_file <- paste0(
   'data/processed/Permits/b3_apns_p_', 
   gsub('.', '', cevent_type, fixed=TRUE), '_', sqft_threshold, '.csv')
 c_events <- read.csv(construction_file, colClasses=c("APN"="character"))
-# * Our sample of 15,0006 parcels
+# * Our sample of 15,006 parcels
 complete_sample <- read.csv('data/raw/complete_sampled_APNs.csv', 
                             colClasses=c("APN"="character"))
 # * Data frame of 159k residential parcels in SJ

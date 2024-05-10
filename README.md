@@ -42,7 +42,7 @@ between household income and ADU construction (Appendix J) and the analysis of t
 We provide a small building segmentation dataset using small buildings from our study as a resource for future research, excluding 
 informal detections. This labeled dataset includes parcel-level remote sensing imagery and accompanying polygons of
 detached buildings located within each parcel. Our dataset contains 38,875 images in total, including 2,225 positive
-images (images containing a permitted small buildings) and 36,650 negative images (images that do not contain a small building). 
+images (images containing one or more permitted small buildings) and 36,650 negative images (images that do not contain a small building). 
 
 ## References
 City of San José Development Services Permit Center. (2023). Permit and Property Information Portal [Data set]. 
