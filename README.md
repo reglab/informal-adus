@@ -9,15 +9,18 @@ One promising policy approach to addressing housing needs is liberalizing access
 ![Methodology Overview](output/paper_figures/flowchart_simplified.png)
 
 ```         
-@article{citation_key,
-  author = {Author Name},
-  title = {Article Title},
-  journal = {Journal Name},
-  year = {Year},
-  volume = {Volume},
-  number = {Number},
-  pages = {Pages},
-  doi = {DOI}
+@article{doi:10.1080/01944363.2024.2345730,
+author = {Nathanael Jo, Andrea Vallebueno, Derek Ouyang and Daniel E. Ho},
+title = {Not (Officially) in My Backyard},
+journal = {Journal of the American Planning Association},
+volume = {0},
+number = {0},
+pages = {1--16},
+year = {2024},
+publisher = {Routledge},
+doi = {10.1080/01944363.2024.2345730},
+URL = {https://doi.org/10.1080/01944363.2024.2345730},
+eprint = {https://doi.org/10.1080/01944363.2024.2345730}
 }
 ```
 
