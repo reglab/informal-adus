@@ -2,7 +2,7 @@
 
 ## Nathanael Jo, Andrea Vallebueno, Derek Ouyang, Daniel E. Ho
 
-This is the code repository for "Not (Officially) in My Backyard: Characterizing Informal Accessory Dwelling Units and Informal Housing Policy with Remote Sensing."
+This is the code repository for ["Not (Officially) in My Backyard: Characterizing Informal Accessory Dwelling Units and Informal Housing Policy with Remote Sensing."](https://www.tandfonline.com/doi/full/10.1080/01944363.2024.2345730)
 
 One promising policy approach to addressing housing needs is liberalizing accessory dwelling unit (ADU) development. Yet understanding the impact of such policy efforts is fundamentally constrained by the inability to quantify and characterize unpermitted ADUs, which may expose homeowners and tenants to legal, financial, and safety risks and confound policy evaluations. We address this gap by leveraging computer vision and human annotations to estimate the population of detached ADU constructions in San José, California. We find that informal ADU construction is substantial – approximately three to four informal units for every formal unit – and more likely in more diverse, dense, and overcrowded neighborhoods.
 
